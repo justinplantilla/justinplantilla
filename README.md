@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Justin Paul M. Plantilla
 
 # 💫 About Me:
-📖 Currently studying Bachelor of Science in Information Technology at Laguna State Polytechnic University - Sta. Cruz Campus<br>💻 Learning Python, JavaScript and Git<br>🚀 Interested in Web Development, AI, Cybersecurity, and Networking<br>📚 Always curious and improving my skills through projects and open-source contributions
+📖 Currently studying Bachelor of Science in Information Technology at Laguna State Polytechnic University - Sta. Cruz Campus<br>
+💻 Learning Python and JavaScript<br>
+🚀 Interested in Web Development, AI, Cybersecurity, and Networking<br>
+📚 Always curious and improving my skills through projects and open-source contributions
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1D5mkxQ6tU/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/japss.xx?igsh=MjhkdTdpZHFyeXg=) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:plantillajustin@gmail.com) 
