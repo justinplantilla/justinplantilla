@@ -14,8 +14,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=justinplantilla&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=justinplantilla&theme=one_dark_pro&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=justinplantilla&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=justinplantilla&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -23,3 +21,5 @@
 ---
 
 ✨ *“The best way to predict the future is to create it.”*  
+
+---
